@@ -1,4 +1,4 @@
-<img href="https://gifer.com/es/gifs/blog" alt="Angular" src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true" style="width: 100vw; height: 500px; object-fit: contain">
+<img href="https://gifer.com/es/gifs/blog" alt="Angular" src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true" style="width: 100vw; height: 300px; object-fit: cover">
 
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Coinance**
 
-- 🌱 I’m currently learning **websockrt with angular, node js and fremework nest js**
+- 🌱 I’m currently learning **websocket in angular, node js, nest js**
 
 - 👯 I’m looking to collaborate on [worldfit](https://worldfit.site/auth/login)
 
