@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [worldfit](https://worldfit.site/auth/login)
 
-- 🤝 I’m looking to collaborate on [Binance-clone](https://fir-img-fe824.web.app/admin)
+- 👯 I’m looking to collaborate on [Binance-clone](https://fir-img-fe824.web.app/admin)
 
 - 💬 Ask me about **MEAN**
 
