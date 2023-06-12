@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm JuanCarlos Dasilva</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
 
