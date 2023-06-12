@@ -14,11 +14,9 @@
 
 - 🌱 I’m currently learning **websocket in angular, node js, nest js**
 
-- 👯 I’m looking to collaborate on [worldfit](https://worldfit.site/auth/login)
+- 👯 I collaborated in [worldfit](https://worldfit.site/auth/login)
 
-- 👯 I’m looking to collaborate on [Binance-clone](https://fir-img-fe824.web.app/admin)
-
-- 💬 Ask me about **MEAN**
+- 👯 I collaborated in [Binance-clone](https://fir-img-fe824.web.app/admin)
 
 - 📫 How to reach me **https://www.linkedin.com/in/jdasilvaa/**
 
