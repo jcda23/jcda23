@@ -7,7 +7,7 @@
 <br>
 
  <div style=" display: flex; justify-content: center; align-end: center;">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
  
  <h2> 👨🏻‍💻 About Me </h2>
