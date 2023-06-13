@@ -4,8 +4,9 @@
 <h4 align="center">A passionate frontend developer from Colombia, committed to creating attractive and functional digital experiences. <br>
 I enjoy collaborating between design and development to build intuitive and friendly user interfaces</h4>
   <br>
-
-## 💻 My technology stack:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
+ 
+ ## 💻 My technology stack:
 <table>
   <tr>
     <th>Programming languages</th>
@@ -53,7 +54,7 @@ I enjoy collaborating between design and development to build intuitive and frie
 
  <div style=" display: flex; justify-content: center; align-items: center; margin-top:2rem">
   <img align="right" alt="Coding" width="350" height="300" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
+
 
 ## 🌱 Implementation:
 
