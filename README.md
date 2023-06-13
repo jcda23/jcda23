@@ -54,7 +54,7 @@
 
   ## 🌱 Implementation:
  <div style=" display: flex; justify-content: center; align-end: center;">
-  <img align="right" alt="Coding" width="auto" height="500" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
+  <img align="right" alt="Coding" width="auto" height="450" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
 </div>
 
  - 👯 I have had the opportunity to collaborate and put into  <br> practice my frontend skills in multidisciplinary teams formed <br> by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
