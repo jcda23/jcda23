@@ -53,7 +53,7 @@ I enjoy collaborating between design and development to  <br> build intuitive an
 <br>
 
  <div style=" display: flex; justify-content: center; align-end: center; margin-top:40px">
-  <img align="right" alt="Coding" width="290" height="auto" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
+  <img align="right" alt="Coding" width="270" height="auto" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
 </div>
 
 
