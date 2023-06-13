@@ -53,7 +53,7 @@ I enjoy collaborating between design and development to  <br> build intuitive an
 <br>
 
  <div style=" display: flex; justify-content: center; align-items: center; margin-top:2rem">
-  <img align="right" alt="Coding" width="300" height="300" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg"></div>
+  <img align="right" alt="Coding" width="250" height="200" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg"></div>
 
 
 ## 🌱 Implementation:
