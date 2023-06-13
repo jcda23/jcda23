@@ -3,8 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm JuanCarlos Dasilva</h1>
-<p align="center">A passionate frontend developer from Colombia, committed to creating attractive and functional digital experiences. <br>
-I enjoy collaborating between design and development to build intuitive and friendly user interfaces</p>
+<h4 align="center">A passionate frontend developer from Colombia, committed to creating attractive and functional digital experiences. <br>
+I enjoy collaborating between design and development to build intuitive and friendly user interfaces</h4>
   <br>
   <br>
 <img align="right" alt="Coding" width="400" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
