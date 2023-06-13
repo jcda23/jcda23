@@ -113,9 +113,8 @@
   </tr>
 </table> -->
 
-<h1 align="left">
+<h2 align="left">
 ✨ Where you can find me ✨
-  
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
@@ -127,36 +126,39 @@
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+     <br>
+  <a href="https://www.linkedin.com/in/jdasilvaa/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/jcda23">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
 
-  <br/>
+<!--   <br/>
   <a href="https://www.facebook.com/profile.php?id=100026103873514">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
+  </a> -->
  
-  <a href="https://www.instagram.com/parth._.27/">
+<!--   <a href="https://www.instagram.com/parth._.27/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
+  </a> -->
 
-  <a href="https://twitter.com/parthpatel_27">
+<!--   <a href="https://twitter.com/parthpatel_27">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  </a> -->
 </p>
-</h1>
+</h2>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcda23&theme=chartreuse-dark&hide_border=false)<br/>
+   <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 
