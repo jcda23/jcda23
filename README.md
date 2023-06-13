@@ -34,7 +34,7 @@ I enjoy collaborating between design and development to build intuitive and frie
 <br>
 <table>
   <tr>
-    <th>RDBMS</th>
+    <th>DBMS</th>
     <th>Dev Tools</th>
   </tr>
   <tr>
