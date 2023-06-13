@@ -52,8 +52,9 @@ I enjoy collaborating between design and development to  <br> build intuitive an
 </table>
 <br>
 
- <div style=" display: flex; justify-content: center; align-items: center; margin-top:2rem">
-  <img align="right" alt="Coding" width="300" height="auto" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif"></div>
+ <div style=" display: flex; justify-content: center; align-end: center; margin-top:40px">
+  <img align="right" alt="Coding" width="300" height="auto" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
+</div>
 
 
 ## 🌱 Implementation:
