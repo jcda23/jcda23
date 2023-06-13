@@ -1,42 +1,10 @@
 <img href="https://gifer.com/es/gifs/blog" alt="Angular" src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true" style="width: 100vw; height: 250px; object-fit: content">
 
-
-
 <h1 align="center">Hi 👋, I'm JuanCarlos Dasilva</h1>
 <h4 align="center">A passionate frontend developer from Colombia, committed to creating attractive and functional digital experiences. <br>
 I enjoy collaborating between design and development to build intuitive and friendly user interfaces</h4>
   <br>
-  <br>
-<img align="right" alt="Coding" width="350" height="300" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
 
-## 🌱 Implementation:
-
- - 👯 I have had the opportunity to collaborate and put into practice my frontend skills in multidisciplinary teams formed by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>WorldFit</td>
-    <td><a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></td>
-  </tr>
-  <tr>
-    <td>Binance-Clone</td>
-    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.app/admin</a></td>
-  </tr>
-    <tr>
-    <td>Coinance personal project</td>
-    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.p</a></td>
-  </tr>
-</table>
-  <br>
- 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jcda23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jdasilvaa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jcda23) 
-<br>
- <br>
 ## 💻 My technology stack:
 <table>
   <tr>
@@ -82,6 +50,32 @@ I enjoy collaborating between design and development to build intuitive and frie
   </tr>
 </table>
 <br>
+
+<div><img align="right" alt="Coding" width="350" height="300" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg"></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
+
+## 🌱 Implementation:
+
+ - 👯 I have had the opportunity to collaborate and put into practice my frontend skills in multidisciplinary teams formed by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>WorldFit</td>
+    <td><a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></td>
+  </tr>
+  <tr>
+    <td>Binance-Clone</td>
+    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.app/admin</a></td>
+  </tr>
+    <tr>
+    <td>Coinance personal project</td>
+    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.p</a></td>
+  </tr>
+</table>
+  <br>
 <!-- # 💻 Training:
 <table>
   <tr>
