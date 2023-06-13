@@ -2,11 +2,28 @@
 
 <h1 align="center">Hey <img align="center" src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm JuanCarlos Dasilva!!</h1>
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>I'm a frontend developer and System Engineering college student. I want to be at the forefront of technology. 📚📈🔬, and I'm also a competitive programmer 🎈🤩. In my repositories you will find projects created using my technology stack.
 <br>
- <br>
-  
-  ## 💻 My technology stack:
+<br>
+
+ <div style=" display: flex; justify-content: center; align-end: center;">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+ 
+ <h2> 👨🏻‍💻 About Me </h2>
+
+- 🔭 &nbsp; I’m currently learning Application Development <br>
+ <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science.
+- ✍️ &nbsp; Watching Cartoon and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I believe that a cup of coffee is the ultimate solution to any problem. "I drink coffee and then I exist". 
+
+ </div>
+  <br>
+<br>
+ 
+   # 💻 My technology stack:
 <table>
   <tr>
     <th>Programming languages</th>
@@ -51,13 +68,12 @@
   </tr>
 </table>
 <br>
-
-  ## 🌱 Implementation:
- <div style=" display: flex; justify-content: center; align-end: center;">
-  <img align="right" alt="Coding" width="auto" height="450" style"object-fit: cover" src="https://i.gifer.com/origin/0d/0dedeabfad9b53e09d60bb39e3b50533_w200.gif">
-</div>
-
- - 👯 I have had the opportunity to collaborate and put into  <br> practice my frontend skills in multidisciplinary teams formed <br> by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
+ 
+ 
+  # 🌱 Implementation:
+ 
+ - 👯 I have had the opportunity to collaborate and put into  <br> practice my frontend skills in multidisciplinary teams formed <br> by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="25" width="auto" /></a> team, on projects such as:
+  <br>
 <table>
   <tr>
     <th>Project</th>
@@ -97,7 +113,7 @@
   </tr>
 </table> -->
 
-<h1 align="center">
+<h1 align="left">
 ✨ Where you can find me ✨
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
@@ -110,8 +126,7 @@
 
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
-<p align="center">
-  <br/>
+<p align="left">
   <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
@@ -136,12 +151,12 @@
 </p>
 </h1>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcda23&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 
