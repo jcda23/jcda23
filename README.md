@@ -65,12 +65,17 @@ I enjoy collaborating between design and development to build intuitive and frie
     <th>Link</th>
   </tr>
   <tr>
-    <td>WorldFit</td>
-    <td><a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></td>
+    <td>WorldFit</td> 
+    <td>
+     <p>Demo <br> <a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></p>
+      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
+    </td>
   </tr>
   <tr>
     <td>Binance-Clone</td>
-    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.app/admin</a></td>
+    <td>
+       <p>Demo <br> <a href="https://worldfit.site/auth/login">https://fir-img-fe824.web.app/admin</a></p>
+      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/C10-G14</a></p>
   </tr>
     <tr>
     <td>Coinance personal project</td>
