@@ -10,9 +10,9 @@ I enjoy collaborating between design and development to build intuitive and frie
 <img align="right" alt="Coding" width="400" style"object-fit: cover" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
 
-# 💻 Implementation:
+## 🌱 Implementation:
 
- - 👯 I have had the opportunity to collaborate and put into practice my frontend skills in multidisciplinary teams formed by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry.ico?alt=media&token=9f174e85-dbda-4925-96f5-971b01b3822f" alt="nocountry/" height="30" width="40" /></a> team, on projects such as:
+ - 👯 I have had the opportunity to collaborate and put into practice my frontend skills in multidisciplinary teams formed by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
 <table>
   <tr>
     <th>Project</th>
@@ -37,7 +37,7 @@ I enjoy collaborating between design and development to build intuitive and frie
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jcda23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jdasilvaa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jcda23) 
 <br>
  <br>
-# 💻 My technology stack:
+## 💻 My technology stack:
 <table>
   <tr>
     <th>Programming languages</th>
@@ -52,11 +52,10 @@ I enjoy collaborating between design and development to build intuitive and frie
     <td>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+      <img src="https://img.shields.io/badge/Firebase-F2C129?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
     </td>
     <td>
        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -98,13 +97,13 @@ I enjoy collaborating between design and development to build intuitive and frie
   </tr>
 </table> -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcda23&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcda23&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 
 
