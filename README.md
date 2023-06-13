@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey <img align="center" src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm JuanCarlos Dasilva!!</h1>
 
-<p align="center"> <samp>I'm a frontend developer and System Engineering college student. I want to be at the forefront of technology. 📚📈🔬, and I'm also a competitive programmer 🎈🤩. In my repositories you will find projects created using my technology stack.
+<p align="center"> <samp>I am a frontend developer and Systems Engineering university student. I always try to be at the forefront of technology. 📚📈🔬, I consider myself a competitive programmer 🎈🤩. In my repositories you will find projects created using my technology stack.
 <br>
 <br>
 
@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 - 🔭 &nbsp; I’m currently learning Application Development <br>
- <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
+ <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"> <img src="https://img.shields.io/badge/-INGLISH-blue" alt="Inglish">
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
 - ✍️ &nbsp; I am always testing the latest trends in the technologies I use.
