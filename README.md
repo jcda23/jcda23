@@ -1,8 +1,8 @@
 <img href="https://gifer.com/es/gifs/blog" alt="Angular" src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true" style="width: 100vw; height: 250px; object-fit: content">
 
 <h1 align="center">Hi 👋, I'm JuanCarlos Dasilva</h1>
-<h4 align="center">A passionate frontend developer from Colombia, committed to creating attractive and functional digital experiences. <br>
-I enjoy collaborating between design and development to build intuitive and friendly user interfaces</h4>
+<h4 align="center">A passionate frontend developer from Colombia, committed to creating attractive and  <br>functional digital experiences.
+I enjoy collaborating between design and development to  <br> build intuitive and friendly user interfaces</h4>
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcda23&label=Profile%20views&color=0e75b6&style=flat" alt="jcda23" /> </p>
  
@@ -58,7 +58,7 @@ I enjoy collaborating between design and development to build intuitive and frie
 
 ## 🌱 Implementation:
 
- - 👯 I have had the opportunity to collaborate and put into practice my frontend skills in multidisciplinary teams formed by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
+ - 👯 I have had the opportunity to collaborate and put into  <br> practice my frontend skills in multidisciplinary teams formed <br> by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="20" width="auto" /></a> team, on projects such as:
 <table>
   <tr>
     <th>Project</th>
@@ -78,7 +78,7 @@ I enjoy collaborating between design and development to build intuitive and frie
       <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/C10-G14</a></p>
   </tr>
     <tr>
-    <td>Coinance personal project</td>
+    <td>Coinance <br> personal <br> project</td>
     <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.p</a></td>
   </tr>
 </table>
