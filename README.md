@@ -6,11 +6,10 @@
 <br>
 <br>
 
+   # 👨🏻‍💻 About Me:
+ 
  <div style=" display: flex; justify-content: center; align-end: center;">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
-
- 
- <h2> 👨🏻‍💻 About Me </h2>
 
 - 🔭 &nbsp; I’m currently learning Application Development <br>
  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
