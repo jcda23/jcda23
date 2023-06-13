@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
-- ✍️ &nbsp; Watching Cartoon and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; I am always testing the latest trends in the technologies I use.
 - ☕ &nbsp; I believe that a cup of coffee is the ultimate solution to any problem. "I drink coffee and then I exist". 
 
  </div>
