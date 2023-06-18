@@ -17,7 +17,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - ✍️ &nbsp; I am always testing the latest trends in the technologies I use.
 - ☕ &nbsp; I believe that a cup of coffee is the ultimate solution to any problem. "I drink coffee and then I exist". 
-
+- 💻 &nbsp; My web pages https://portfolio-1f112.web.app
  </div>
   <br>
 <br>
@@ -87,10 +87,9 @@
     </td>
   </tr>
   <tr>
-    <td>Binance-Clone</td>
+    <td>My portfolio web</td>
     <td>
-       <p>Demo <br> <a href="https://worldfit.site/auth/login">https://fir-img-fe824.web.app/admin</a></p>
-      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/C10-G14</a></p>
+      <p>Portfolio <br><a href="https://worldfit.site/auth/login">https://portfolio-1f112.web.app</a></p>
   </tr>
     <tr>
     <td>Coinance <br> personal <br> project</td>
