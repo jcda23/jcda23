@@ -89,14 +89,14 @@
   <tr>
     <td>Binance Clone</td> 
     <td>
-     <p>Demo <br> <a href="https://worldfit.site/auth/login">https://s8-01-t-java-angular-binance.web.app/landing</a></p>
-      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
+     <p>Demo <br> <a href="https://s8-01-t-java-angular-binance.web.app/landing">https://s8-01-t-java-angular-binance.web.app/landing</a></p>
+      <p>Repo <br><a href="https://github.com/No-Country/s8-01-t-java-angular-binance">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
     </td>
   </tr>
   <tr>
     <td>My portfolio web</td>
     <td>
-      <p>Portfolio <br><a href="https://worldfit.site/auth/login">https://portfolio-1f112.web.app</a></p>
+      <p>Portfolio <br><a href="https://portfolio-1f112.web.app/#Home">PORTFOLIO</a></p>
   </tr>
 </table>
   <br>
