@@ -83,17 +83,20 @@
     <td>WorldFit</td> 
     <td>
      <p>Demo <br> <a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></p>
-      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
+      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/C10-G14</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>Binance Clone</td> 
+    <td>
+     <p>Demo <br> <a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></p>
+      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance#%EF%B8%8F-tech-stack</a></p>
     </td>
   </tr>
   <tr>
     <td>My portfolio web</td>
     <td>
       <p>Portfolio <br><a href="https://worldfit.site/auth/login">https://portfolio-1f112.web.app</a></p>
-  </tr>
-    <tr>
-    <td>Coinance <br> personal <br> project</td>
-    <td><a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.p</a></td>
   </tr>
 </table>
   <br>
