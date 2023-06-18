@@ -89,8 +89,8 @@
   <tr>
     <td>Binance Clone</td> 
     <td>
-     <p>Demo <br> <a href="https://worldfit.site/auth/login">https://worldfit.site/auth/login</a></p>
-      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance#%EF%B8%8F-tech-stack</a></p>
+     <p>Demo <br> <a href="https://worldfit.site/auth/login">https://s8-01-t-java-angular-binance.web.app/landing</a></p>
+      <p>Repo <br><a href="https://worldfit.site/auth/login">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
     </td>
   </tr>
   <tr>
