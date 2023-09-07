@@ -89,7 +89,7 @@
   <tr>
     <td>Binance Clone</td> 
     <td>
-     <p>Demo <br> <a href="https://fir-img-fe824.web.app/admin">https://fir-img-fe824.web.app/admin</a></p>
+     <p>Demo <br> <a href="https://fir-img-fe824.web.app/login">https://fir-img-fe824.web.app/login</a></p>
       <p>Repo <br><a href="https://github.com/No-Country/s8-01-t-java-angular-binance">https://github.com/No-Country/s8-01-t-java-angular-binance</a></p>
     </td>
   </tr>
